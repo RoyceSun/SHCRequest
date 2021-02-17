@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SHCRequest' # 名称
-  s.version          = '1.0.1' # 版本号
+  s.version          = '1.0.0' # 版本号
   s.summary          = '网络请求模块' # 概述
   s.homepage         = 'https://github.com/RoyceSun/SHCRequest'  # 主页
   s.license          = { :type => 'MIT', :file => 'LICENSE' }  # license证书
